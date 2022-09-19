@@ -1,0 +1,17 @@
+D:\МДК 01.01\1 сессия\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\МДК 01.01\1 сессия\WpfApp1\bin\Debug\WpfApp1.exe
+D:\МДК 01.01\1 сессия\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\NBAManagment.csproj.AssemblyReference.cache
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\Pages\MainScreen.g.cs
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\App.g.cs
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\MainWindow.baml
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\Pages\MainScreen.baml
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\NBAManagment.csproj.GenerateResource.cache
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\NBAManagment.csproj.CoreCompileInputs.cache
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1.exe
+D:\МДК 01.01\1 сессия\WpfApp1\obj\Debug\WpfApp1.pdb
